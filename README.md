@@ -1,5 +1,5 @@
 # Discord-Bot
-Basic Discord meme bot (for the moment)
+Basic Discord meme bot (for the moment) made thanks to Codex's ressources
 
 Make sure to install the discord and the request library before running the code
 
